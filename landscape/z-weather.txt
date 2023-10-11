@@ -1,0 +1,6 @@
+clear sky, 
+rainy, 
+{ many small | very few | one big } clouds, 
+thunderstorm, 
+lighting strikes, 
+rainbow, 
