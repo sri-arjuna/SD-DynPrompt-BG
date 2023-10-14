@@ -1,0 +1,9 @@
+__landscape/terrain__ __landscape/char/pose__  __landscape/char/specials__    __landscape/time__       __landscape/weather__      __landscape/sky__ 
+__landscape/terrain__ __landscape/char/pose__  __landscape/char/specials__  { __landscape/time__     | __landscape/weather__ }    __landscape/sky__ 
+__landscape/terrain__ __landscape/char/pose__  __landscape/char/specials__  { __landscape/weather__  | __landscape/sky__ }        __landscape/time__ 
+__landscape/terrain__ __landscape/char/pose__  __landscape/char/specials__  { __landscape/sky__      | __landscape/time__ }       __landscape/weather__ 
+__landscape/terrain__ __landscape/char/pose__  __landscape/char/specials__    __landscape/weather__ 
+__landscape/terrain__ __landscape/char/pose__ {__landscape/char/specials__  | __landscape/weather__ } 
+__landscape/terrain__ __landscape/char/pose__ {__landscape/char/specials__  | __landscape/weather__ }  __landscape/time__ 
+__landscape/terrain__ __landscape/char/pose__ {__landscape/char/specials__  | __landscape/time__  }    __landscape/weather__
+
