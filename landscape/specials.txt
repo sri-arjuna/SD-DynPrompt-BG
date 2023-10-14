@@ -1,9 +1,30 @@
-ruins of a { futuristic  | antique | } city, { little | few | a lot } moss, { partially | complete } overgrown, 
-on top of a scyscrapper, futuristic cyberpunk city skyline in the background with many neon lights and smog, 
-a great castle, { gothic | Romanesque | pre-Romanesque } {shell-keep | stone-keep | concentric } style, 
-{ modern | rustical | antique } { tent | campsite }, sparkling campfire, 
+Cascading Waterfall Amidst the Rainforest
+Towering Granite Spires and Cliffs
+Serpentine Meandering River
+Vibrant Coral Reef Ecosystem
+Jagged Alpine Peaks and Rugged Valleys
+Pristine White Sand Beach and Turquoise Waters
+Breathtaking Northern Lights in the Arctic Sky
+Rugged Coastal Sea Stacks
+Ancient Bristlecone Pine Forest
+Exquisite Ice Formations in a Glacier Cave
+Verdant and Peaceful Meadow
+Enigmatic Sand Dunes in the Desert
+Bubbling Mud Pots in Geothermal Fields
+Eroded Sandstone Slot Canyons
+Vibrant Wildflower Fields in Spring
+Prismatic Hot Springs in a Geyser Basin
+Crystal-Clear Mountain Lakes
+Majestic Redwood Forest Canopy
+Meandering and Wild Jungle River
+Volcanic Crater Lake Surrounded by Lush Foliage
 { floor has a river | walls have an indigenous village of either rustical or futuristic style | floor and walls are just different levels of rocks }, 
 cave, 
 tunnel, 
 { grave | graveyard }, 
 a hughe water fall, 
+a tiny little stone, 
+a great castle, { gothic | Romanesque | pre-Romanesque } {shell-keep | stone-keep | concentric } style, 
+ruins of a { futuristic  | antique | medieval } city, { little | few | a lot } moss, { partially | complete } overgrown, 
+__landscape/specials-char__
+{fire|ice|arcana} particles, 
