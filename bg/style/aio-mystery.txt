@@ -1,0 +1,1 @@
+{ __bg/style/painting__ |  __bg/style/render__  } , __bg/style/fx__ , __bg/style/detail__ __bg/style/artist/mystery__ 

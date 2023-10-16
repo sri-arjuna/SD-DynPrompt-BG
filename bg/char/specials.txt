@@ -13,7 +13,7 @@ on top of a tower, Medieval city skyline in the background with many torches and
 In a {chappel, citadel, church} its style is a mix of { gothic | Romanesque | pre-Romanesque }  and {Gigeresque | Gibsonesque | Asimovian |Herbertian|Clarkean}, it is domed and has decorative {spires|towers}, 
 { modern | rustical | antique } { tent | campsite }, sparkling campfire, 
 at a crossing of streets, in the middle of { futuristic  | antique | medieval | modern | cyberpunk | steampunk } town, people, vehicles of same epoch, shops, 
-__landscape/specials__
-__landscape/specials__ __landscape/specials__
+__bg/landscape/specials__
+__bg/landscape/specials__ __bg/landscape/specials__
 {gothic|cyberpunk|futuristic|medieval} library, hughe hall, shelfs on either side, 
 {gothic|cyberpunk|futuristic|medieval} a very hughe impressive monumental hall, 

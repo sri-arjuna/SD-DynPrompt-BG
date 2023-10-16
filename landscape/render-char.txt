@@ -1,2 +1,0 @@
-perfect face, perfecteyes eyes, perfect eyes, perfect hands, perfect feets, 
-perfect face, perfecteyes eyes, perfect eyes, perfect hands, perfect feets, { <lora:add-detail-xl:0.5> | <lora:add-detail-xl:0.75> | <lora:add-detail-xl:1> | <lora:add-detail-xl:1.25> } , 

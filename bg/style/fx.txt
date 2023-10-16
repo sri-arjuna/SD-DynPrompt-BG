@@ -1,0 +1,4 @@
+__bg/style/light__ __bg/style/effect__
+{ __bg/style/light__ | __bg/style/effect__ } 
+{ __bg/style/light__ | __bg/style/effect__ } { __bg/style/light__ | __bg/style/effect__ } 
+{ __bg/style/light__ | __bg/style/effect__ } { __bg/style/light__ | __bg/style/effect__ } { __bg/style/light__ | __bg/style/effect__ } 

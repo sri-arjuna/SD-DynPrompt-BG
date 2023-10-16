@@ -1,8 +1,0 @@
-__landscape/terrain__  __landscape/specials__    __landscape/time__       __landscape/weather__      __landscape/sky__ 
-__landscape/terrain__  __landscape/specials__  { __landscape/time__     | __landscape/weather__ }    __landscape/sky__ 
-__landscape/terrain__  __landscape/specials__  { __landscape/weather__  | __landscape/sky__ }        __landscape/time__ 
-__landscape/terrain__  __landscape/specials__  { __landscape/sky__      | __landscape/time__ }       __landscape/weather__ 
-__landscape/terrain__  __landscape/specials__    __landscape/weather__ 
-__landscape/terrain__ {__landscape/specials__  | __landscape/weather__ } 
-__landscape/terrain__ {__landscape/specials__  | __landscape/weather__ }  __landscape/time__ 
-__landscape/terrain__ {__landscape/specials__  | __landscape/time__  }    __landscape/weather__

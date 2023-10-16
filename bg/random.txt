@@ -1,0 +1,17 @@
+image style is __bg/style/aio__ , __bg/style/fx__ , incluenced by __bg/style/artist/aio__ , 
+image style is __bg/style/aio__ , __bg/style/fx__ , incluenced by a mix of __bg/style/artist/aio__ and __bg/style/artist/aio__ , 
+image style is a mix of __bg/style/aio__ and __bg/style/aio__ , __bg/style/fx__ , incluenced by __bg/style/artist/aio__ , 
+image style is a mix of __bg/style/aio__ and __bg/style/aio__ , __bg/style/fx__ , incluenced by a mix of __bg/style/artist/aio__ and __bg/style/artist/aio__ , 
+image style is __bg/style/painting__ with __bg/style/detail__ { __bg/style/asorted__ | __bg/style/artist/aio__ } incluence , 
+image style is __bg/style/render__ with __bg/style/detail__ { __bg/style/asorted__ | __bg/style/artist/aio__ } incluence , 
+image style is __bg/style/asorted__ with __bg/style/detail__  __bg/style/artist/aio__  incluence , 
+image style is { __bg/style/aio-anime__ |  __bg/style/aio-fantasy__ | __bg/style/aio-mystery__ | __bg/style/aio-scifi__ } , 
+image style is __bg/style/aio-{anime|fantasy|mystery|scifi__ } , 
+
+
+
+
+
+render in the style of { __bg/list/styles__ | __bg/list/styles__ __bg/list/styles__ | __bg/list/styles__ __bg/list/styles__ __bg/list/styles__ }
+render in the style of { __bg/list/styles__ __bg/list/styles__ | __bg/list/styles__ __bg/list/styles__ __bg/list/styles__ }
+render in the style of { __bg/list/styles__ __bg/list/styles__ __bg/list/styles__ | __bg/list/styles__ __bg/list/styles__ __bg/list/styles__  __bg/list/styles__ }

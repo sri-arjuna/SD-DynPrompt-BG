@@ -1,0 +1,4 @@
+__bg/style/artist/anime__ 
+__bg/style/artist/fantasy__
+__bg/style/artist/mystery__
+__bg/style/artist/sci-fi__

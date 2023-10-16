@@ -1,0 +1,8 @@
+__bg/terrain__  __bg/specials__    __bg/time__       __bg/weather__      __bg/sky__ 
+__bg/terrain__  __bg/specials__  { __bg/time__     | __bg/weather__ }    __bg/sky__ 
+__bg/terrain__  __bg/specials__  { __bg/weather__  | __bg/sky__ }        __bg/time__ 
+__bg/terrain__  __bg/specials__  { __bg/sky__      | __bg/time__ }       __bg/weather__ 
+__bg/terrain__  __bg/specials__    __bg/weather__ 
+__bg/terrain__ {__bg/specials__  | __bg/weather__ } 
+__bg/terrain__ {__bg/specials__  | __bg/weather__ }  __bg/time__ 
+__bg/terrain__ {__bg/specials__  | __bg/time__  }    __bg/weather__

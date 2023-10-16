@@ -26,7 +26,7 @@ a hughe water fall,
 a tiny little stone, 
 a great castle, { gothic | Romanesque | pre-Romanesque } {shell-keep | stone-keep | concentric } style, 
 ruins of a { futuristic  | antique | medieval | Romanesque | gothic | Gigeresque } city, { little | few | a lot } moss, { partially | complete } overgrown, 
-__landscape/char/specials__ 
-__landscape/char/specials__ __landscape/char/specials__ 
+__bg/char/specials__ 
+__bg/char/specials__ __bg/char/specials__ 
 {fire|ice|arcana} particles, 
 {one|two|three} Pyramid, 
