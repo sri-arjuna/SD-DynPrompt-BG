@@ -1,23 +1,18 @@
-3d render, 
-{8|16} bit, 
-anime, octane render, 
+
+anime, 
 anime, CG, 
-{ digital painting | science fiction digital painting | fantasy digital painting }
-science fiction digital painting, 
-lush digital fantasy painting, 
+
 black white style, 
-soft light, neo-romanticism, 
-a detailed matte { black white | colored } painting, shin hanga,
+soft light, , 
+a detailed matte { black white | colored } painting, 
 aftro pop, 
-art brut, 
+, 
 Baroque, 
 Bauhaus, 
 
 Block Print, 
 Bronze, 
-Charcoal, 
-Colored Paper, 
-Colored Pencils, 
+
 Colorfield, 
 , 
 Cross Stitch, 
@@ -32,19 +27,16 @@ Gouache,
 Gothic, 
 Graffiti, 
 Graphite, 
-High Renaissance, 
-High Renaissance Painting, 
+
 , 
-matte {fantasy|science fiction|dark|mystical} painting
+matte {fantasy|science fiction|dark|mystical} painting, 
 Mixed Media, 
 Neon Light, 
 
-Pixel Art, 
-Pointillism, 
+, 
+, 
 
-Pop Art, 
-Postmodernism, 
-remodernism, 
+
 Risograph, 
 , 
 Silkscreened, 
@@ -54,10 +46,10 @@ sots art,
 space art, Filip Hodas, 
 Static, 
 Stipple, 
-Surrealism, 
-{ Tattoo | Tribal Tattoo }, 
+, 
+{ Tattoo | Tribal Tattoo } , 
 Ukiyo-e, 
-unreal engine, 
+, 
 , 
 HR Giger, 
 HP Lovecraft, 
@@ -70,5 +62,5 @@ Herbert,
 Clarkean, 
 , Artgerm, anime art, a painting, fantasy art
  artist, anime art, an album cover, synchromism
- Ai-Mitsu, anime art, cyberpunk art, computer art
+  anime art, cyberpunk art, computer art
  
