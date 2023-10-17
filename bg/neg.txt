@@ -1,1 +1,1 @@
-duplicates, out of frame, ((legs)), ((feet)), watermark, logo, text, 
+duplicates, out of frame, ((legs)), ((feet)), letterbox,  watermark, logo, text, 
