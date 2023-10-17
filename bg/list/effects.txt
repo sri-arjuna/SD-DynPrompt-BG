@@ -4,13 +4,13 @@ sharp focus,
 vibrant colors, 
 high contrast, 
 ((light bokeh)), 
-Gaussian Blur 
-Motion Blur 
-Radial Blur 
-Zoom Blur 
-Lens Flare 
-Tilt-Shift Blur 
-Bokeh Panorama 
-Depth of Field Blur 
-Swirl Bokeh 
-Chromatic Aberration 
+Gaussian Blur, 
+Motion Blur, 
+Radial Blur, 
+Zoom Blur, 
+Lens Flare, 
+Tilt-Shift Blur, 
+Bokeh Panorama, 
+Depth of Field Blur, 
+Swirl Bokeh, 
+Chromatic Aberration, 

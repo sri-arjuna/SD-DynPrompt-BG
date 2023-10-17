@@ -1,8 +1,8 @@
-__bg/terrain__  __bg/specials__    __bg/time__       __bg/weather__      __bg/sky__ 
-__bg/terrain__  __bg/specials__  { __bg/time__     | __bg/weather__ }    __bg/sky__ 
-__bg/terrain__  __bg/specials__  { __bg/weather__  | __bg/sky__ }        __bg/time__ 
-__bg/terrain__  __bg/specials__  { __bg/sky__      | __bg/time__ }       __bg/weather__ 
-__bg/terrain__  __bg/specials__    __bg/weather__ 
-__bg/terrain__ {__bg/specials__  | __bg/weather__ } 
-__bg/terrain__ {__bg/specials__  | __bg/weather__ }  __bg/time__ 
-__bg/terrain__ {__bg/specials__  | __bg/time__  }    __bg/weather__
+__bg/landscape/terrain__   __bg/landscape/specials__    __bg/landscape/time__       __bg/landscape/weather__      __bg/landscape/sky__ 
+__bg/landscape/terrain__   __bg/landscape/specials__  { __bg/landscape/time__     | __bg/landscape/weather__ }    __bg/landscape/sky__ 
+__bg/landscape/terrain__   __bg/landscape/specials__  { __bg/landscape/weather__  | __bg/landscape/sky__ }        __bg/landscape/time__ 
+__bg/landscape/terrain__   __bg/landscape/specials__  { __bg/landscape/sky__      | __bg/landscape/time__ }       __bg/landscape/weather__ 
+__bg/landscape/terrain__   __bg/landscape/specials__    __bg/landscape/weather__ 
+__bg/landscape/terrain__ { __bg/landscape/specials__  | __bg/landscape/weather__ } 
+__bg/landscape/terrain__ { __bg/landscape/specials__  | __bg/landscape/weather__ }  __bg/landscape/time__ 
+__bg/landscape/terrain__ { __bg/landscape/specials__  | __bg/landscape/time__  }    __bg/landscape/weather__ 
