@@ -1,9 +1,2 @@
-__bg/landscape/terrain__ __bg/char/pose__   __bg/char/specials__   __bg/landscape/time__		  __bg/landscape/weather__		__bg/landscape/sky__		__bg/char/render__
-__bg/landscape/terrain__ __bg/char/pose__   __bg/char/specials__ { __bg/landscape/time__		| __bg/landscape/weather__ }	__bg/landscape/sky__		__bg/char/render__
-__bg/landscape/terrain__ __bg/char/pose__   __bg/char/specials__ { __bg/landscape/weather__	 	| __bg/landscape/sky__ }		__bg/landscape/time__		__bg/char/render__
-__bg/landscape/terrain__ __bg/char/pose__   __bg/char/specials__ { __bg/landscape/sky__		 	| __bg/landscape/time__ }		__bg/landscape/weather__	__bg/char/render__
-__bg/landscape/terrain__ __bg/char/pose__   __bg/char/specials__   __bg/landscape/weather__										__bg/char/render__
-__bg/landscape/terrain__ __bg/char/pose__ { __bg/char/specials__ | __bg/landscape/weather__ }									__bg/char/render__
-__bg/landscape/terrain__ __bg/char/pose__ { __bg/char/specials__ | __bg/landscape/weather__ }	__bg/landscape/time__			__bg/char/render__
-__bg/landscape/terrain__ __bg/char/pose__ { __bg/char/specials__ | __bg/landscape/time__  }		__bg/landscape/weather__		__bg/char/render__
-
+__bg/nature/char__ __bg/char/pose__ __bg/char/render__
+__bg/nature/char__ __bg/char/zoom__ __bg/char/render__

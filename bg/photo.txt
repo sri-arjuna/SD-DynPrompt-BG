@@ -1,4 +1,2 @@
 ((photo raw)), 
 ((photo raw)), __bg/style/fx__ , 
-{ ((Polaroid)) | ((photo raw)) } , 
-{ ((Polaroid)) | ((photo raw)) } , __bg/style/fx__ , 

@@ -1,5 +1,5 @@
 __bg/char/zoom__ bach arch pose, 
 __bg/char/zoom__ bach arch pose, hands on hips, 
-__bg/char/zoom__ posing for a professional photo {sitting|standing|crouching|kneeling}, 
-__bg/char/zoom__ (({walking|kneeling})), from behind, look back over shoulder to camera, 
+__bg/char/zoom__ posing for a professional photo {sitting|standing|crouching|kneeling} , 
+__bg/char/zoom__ (( {walking|kneeling} )), from behind, look back over shoulder to camera, 
 __bg/char/zoom__ leaning into the photo, 
