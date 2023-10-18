@@ -1,0 +1,2 @@
+__bg/char/pose__ __bg/char/render__
+__bg/char/zoom__ __bg/char/render__
