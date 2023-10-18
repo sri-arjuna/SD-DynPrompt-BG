@@ -1,0 +1,3 @@
+{ within | just outside of | at the border of | in the streets of | at a crossing in } a __bg/city/fantasy__ 
+{ within | just outside of | at the border of | in the streets of | at a crossing in } a __bg/city/fantasy__ __bg/city/building/fantasy__ 
+{ within | just outside of | at the border of | in the streets of | at a crossing in } a __bg/city/fantasy__ between __bg/city/building/fantasy__ and __bg/city/building/fantasy__ 
