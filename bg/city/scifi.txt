@@ -1,0 +1,4 @@
+a { futuristic | cyberpunk | futuristic cyberpunk } { village | town }in the style of __bg/style/aio-scifi__ , 
+a { neon lit | smogy | neon lit and clean } { futuristic | cyberpunk | futuristic cyberpunk }{ twon | city } in the style of a mix between __bg/style/aio-scifi__ and { __bg/style/aio-fantasy__ | __bg/style/aio-anime__ | __bg/style/aio-mystery__ } , 
+a { futuristic | cyberpunk | futuristic cyberpunk } { village | town }in the style of __bg/style/aio-scifi__ , 
+a { neon lit | smogy | neon lit and clean } { futuristic | cyberpunk | futuristic cyberpunk }{ twon | city } in the style of a mix between __bg/style/aio-scifi__ and { __bg/style/aio-fantasy__ | __bg/style/aio-anime__ | __bg/style/aio-mystery__ } , 

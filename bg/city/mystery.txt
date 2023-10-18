@@ -1,0 +1,4 @@
+a mysterious { village | town }in the style of __bg/style/aio-mystery__ , 
+a dreamy mysterious {small|big} { castle | city } in the style of __bg/style/aio-mystery__ , 
+a mysterious { village | town }in the style of a mix between __bg/style/aio-mystery__ and { __bg/style/aio-fantasy__ | __bg/style/aio-anime__ | __bg/style/aio-scifi__ } , 
+a dreamy mysterious {small|big} { castle | city } in the style of a mix between __bg/style/aio-mystery__ and { __bg/style/aio-fantasy__ | __bg/style/aio-anime__ | __bg/style/aio-scifi__ } , 

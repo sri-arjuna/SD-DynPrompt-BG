@@ -1,0 +1,4 @@
+a { modern | steampunk } { village | town }in the style of __bg/style/aio__ , 
+a { cold | warm } { modern | steampunk } {small|big} { twon | city } in the style of __bg/style/aio__ , 
+a { modern | steampunk } { village | town }in the style of a mix between __bg/style/aio-scifi__ and __bg/style/aio-mystery__ , 
+a { cold | warm } { modern | steampunk } {small|big} { twon | city } in the style of a mix between __bg/style/aio-scifi__ and __bg/style/aio-mystery__ , 

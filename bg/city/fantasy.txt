@@ -1,0 +1,2 @@
+a fantasy { village | town } in the style of __bg/style/aio-fantasy__ , 
+a dreamy fantasy {small|big} { castle | city } in the style of __bg/style/aio-fantasy__ , 

@@ -1,0 +1,49 @@
+Gigeresque, Le Corbusier-inspired, {retro-futuristic|futuristic|steampunk|cyberpunk}, spires, 
+Lovecraftian, Moorish arches, {retro-futuristic|futuristic|steampunk|cyberpunk}, labyrinths, 
+Tolkien-esque, Victorian Gothic, clockwork, treetop walkways, 
+Asimovian, Romanesque, {retro-futuristic|futuristic|steampunk|cyberpunk}, domed cathedrals, 
+Dystopian, Celtic knots, Art Nouveau, floating islands, 
+Bradbury-inspired, Tudor timber frames, post-apocalyptic, underground passages, 
+Gibsonesque, Byzantine mosaics, neon-lit, mirrored skyscrapers, 
+Pratchett-style, half-timbered, whimsical, twisted cobblestone streets, 
+Herbertian, Aztec-inspired, desert citadels, cascading terraces, 
+Clarkean, Medieval Japanese, crystal spires, bamboo gardens, 
+on top of a scyscrapper, futuristic cyberpunk city skyline in the background with many neon lights and smog, 
+on top of a tower, Medieval city skyline in the background with many torches and cauldrons, 
+In a {chappel, citadel, church} its style is a mix of { gothic | Romanesque | pre-Romanesque }  and {Gigeresque | Gibsonesque | Asimovian |Herbertian|Clarkean}, it is domed and has decorative {spires|towers}, 
+{ modern | rustical | antique } { tent | campsite }, sparkling campfire, 
+at a crossing of streets, in the middle of { futuristic  | antique | medieval | modern | cyberpunk | steampunk } town, people, vehicles of same epoch, shops, 
+__bg/landscape/specials__
+__bg/landscape/specials__ __bg/landscape/specials__
+{gothic|cyberpunk|futuristic|medieval} library, hughe hall, shelfs on either side, 
+{gothic|cyberpunk|futuristic|medieval} a very hughe impressive monumental hall, 
+A place where human ingenuity meets the natural world.
+A bustling intersection of modern life and timeless architecture.
+A hidden alleyway where history whispers in the shadows.
+A moment captured in the glow of city lights and laughter.
+A modern labyrinth where the urban and organic coexist.
+A timeless scene where architecture reaches for the heavens.
+A quiet corner where history's echoes meet contemporary life.
+A scene where artistry is etched into the urban landscape.
+A fleeting moment in the heart of a bustling metropolis.
+A tranquil setting where old and new harmoniously converge.
+A glimpse of culture and tradition within the modern cityscape.
+A snapshot of the everyday beauty hidden in plain sight.
+A place where the past and present intersect in vibrant harmony.
+A fleeting glimpse of life's vibrant mosaic in the urban jungle.
+A scene where the modern world is framed by ancient echoes.
+A picturesque setting where time seems to stand still.
+A moment of serenity amidst the vibrant chaos of the city.
+A snapshot of architectural beauty in a dynamic urban landscape.
+A glimpse into the quiet moments of city life's bustling rhythm.
+A snapshot of life's vibrant tapestry in an urban setting.
+A place where cultural diversity thrives amid modernity.
+A scene where the urban and rural meet in unexpected beauty.
+A fleeting moment of artistry in the heart of the city.
+A tranquil urban escape where nature finds its place.
+A glimpse into the soul of a city, where stories are woven.
+A place where the timeless and contemporary exist in unity.
+A snapshot of life's vibrancy in the midst of human creation.
+A tranquil oasis within the urban labyrinth.
+A scene where the spirit of humanity takes center stage.
+A fleeting moment where beauty and chaos become one.

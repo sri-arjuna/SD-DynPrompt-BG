@@ -1,0 +1,2 @@
+{ within | just outside of } a __bg/city/fantasy__ we stand {indside|outside} of a __bg/list/building__ which is built and decorated in the { style of __bg/style/aio-fantasy__ | mixed style of __bg/style/aio-fantasy__ and __bg/style/aio-mystery__ }
+at the border of a __bg/city/fantasy__ we stand {indside|outside} of a __bg/list/building__ which is built and decorated in the mixed style of { __bg/style/aio-fantasy__ | __bg/style/aio-fantasy__ and __bg/style/aio-mystery__ and __bg/style/aio-fantasy__ }
