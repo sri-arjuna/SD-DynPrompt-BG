@@ -1,1 +1,2 @@
-{ __bg/style/painting__ | __bg/style/render__ } , __bg/style/fx__ , __bg/style/detail__ __bg/style/artist/sci-fi__ 
+__bg/style/fx__ , __bg/style/futuristic__ with __bg/style/detail__ detail in the style of __bg/style/artist/sci-fi__ 
+a mix of __bg/style/futuristic__ and __bg/style/futuristic__ with __bg/style/detail__ detail in the style of __bg/style/artist/sci-fi__ 

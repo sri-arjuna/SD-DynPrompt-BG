@@ -1,2 +1,2 @@
-intricate face, perfect face, perfecteyes eyes, perfect eyes, perfect hands, perfect feets, 
-intricate face, perfect face, perfecteyes eyes, perfect eyes, perfect hands, perfect feets, <lora:add-detail-xl:{0.5|0.75|1|1.25|1.5}> , 
+intricate face, perfect face, perfecteyes eyes, perfect eyes, perfect hands, perfect feets, perfect teeth, 
+intricate face, perfect face, perfecteyes eyes, perfect eyes, perfect hands, perfect feets, perfect teeth, <lora:add-detail-xl:{0.5|0.75|1|1.25|1.5}> , 

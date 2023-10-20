@@ -1,2 +1,2 @@
-__bg/nature/char__ __bg/char/pose__ __bg/char/render__
-__bg/nature/char__ __bg/char/zoom__ __bg/char/render__
+__bg/nature/char__ __bg/char/aio__ 
+__bg/city/char__ __bg/char/aio__ 
