@@ -1,0 +1,94 @@
+Triangle
+Square
+Rectangle
+Circle
+Oval
+Rhombus
+Pentagon
+Hexagon
+Octagon
+Star
+Crescent
+Heart
+Diamond
+Trapezoid
+Parallelogram
+Equilateral Triangle
+Right Triangle
+Isosceles Triangle
+Scalene Triangle
+Pentagram
+Hexagram
+Heptagon
+Nonagon
+Decagon
+Dodecagon
+Tessellation
+Fractal
+Koch Snowflake
+Sierpinski Triangle
+Golden Ratio
+Yin and Yang
+Flower of Life
+Metatron's Cube
+Mobius Strip
+Penrose Triangle
+Mandelbrot Set
+Lissajous Curve
+Trefoil Knot
+Moebius Band
+Apollonian Gasket
+Hypercube (Tesseract)
+Calabi-Yau Manifold
+Klein Bottle
+Poincaré Dodecahedral Space
+Penrose Tiling
+Menger Sponge
+Borromean Rings
+Apollonian Sphere Packing
+Fractal Dragon Curve
+Heptaplexity (Seven-dimensional polytope)
+Hoberman Sphere
+Truncated Icosidodecahedron
+Enneper Surface
+Costa's Minimal Surface
+Moebius Tower
+Thurston Geometries (8 three-dimensional geometries)
+Hopf Fibration
+Taub-NUT Space
+Riemann Surface
+Sierpinski N-Space Curve (Higher-dimensional Sierpinski curve)
+K3 Surface
+Rhombic Dodecahedral Honeycomb
+Peano Curve (Space-filling curve)
+Apollonian Circles
+Singularity
+Wormhole
+Multiverse
+String Theory
+Black Hole
+White Hole
+Event Horizon
+Quantum Foam
+Cosmic Microwave Background
+Hawking Radiation
+Grand Unified Theory
+Quantum Entanglement
+Quantum Superposition
+Dark Matter
+Dark Energy
+Holographic Principle
+Tachyon
+Cosmic Inflation
+Quasar
+Neutrino Oscillation
+Cosmic String
+Topological Defect
+Supersymmetry
+Quantum Gravity
+Hawking-Penrose Singularity Theorems
+Graviton
+Alcubierre Drive (Warp Drive)
+Kugelblitz
+Zero-Point Energy
+Quantum Entropy

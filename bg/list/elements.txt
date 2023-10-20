@@ -1,0 +1,23 @@
+fire 
+ice 
+arcana 
+earth 
+lightning 
+shadow 
+wind 
+water 
+starlight 
+time 
+dream 
+chaos 
+celestial 
+void 
+nature 
+ectoplasm 
+ethereal 
+dark energy 
+crystal 
+aether 
+phantasmal 
+spectral 
+divine 
