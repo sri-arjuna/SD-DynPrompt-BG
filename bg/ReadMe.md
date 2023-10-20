@@ -1,5 +1,5 @@
 # BackGround XL (bg)
-*formerly known as "Landscape XL"*
+*formerly known as "[Landscape XL](https://civitai.com/models/160192)"*
 
 Creating stunning, randomly generated landscapes as wallpaper (my main intention) or to use as backgrounds for your characters.
 
