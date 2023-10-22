@@ -1,2 +1,1 @@
-__bg/nature/aio__
-__bg/art__
+{1:: __bg/nature/aio__ | __bg/art__ } 
