@@ -7,3 +7,5 @@ theatre
 farm 
 { mill | blacksmith }
 {weapon|general|drug|armor|clothing} store 
+construction yard
+messhall

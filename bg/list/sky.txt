@@ -1,14 +1,14 @@
-asteroid belts, 
-big gas giant, 
-blackhole, 
-coronal flares, 
-constellation, 
-{ red | white | blue } dwarf star, 
-earthlike planet, 
-{ galaxy | galaxies }, 
-polar star, 
-stars, 
-pulsar, 
-starfield, 
-supernova, 
-{crescent|full|empty} moon, 
+asteroid belts
+big gas giant
+blackhole
+coronal flares
+constellation
+{ red | white | blue } dwarf star
+earthlike planet
+{ galaxy | galaxies }
+polar star
+stars
+pulsar
+starfield
+supernova
+{crescent|full|empty} moon

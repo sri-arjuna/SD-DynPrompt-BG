@@ -5,6 +5,3 @@ __bg/list/gods/hindi__
 __bg/list/gods/mono__
 __bg/list/gods/norse__
 __bg/list/gods/roman__
-
-
-

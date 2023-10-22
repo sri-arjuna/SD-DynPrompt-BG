@@ -1,4 +1,1 @@
-__bg/list/effects__ 
-__bg/list/effects__ __bg/list/effects__ 
-__bg/list/effects__ __bg/list/effects__ __bg/list/effects__ 
-__bg/list/effects__ __bg/list/effects__ __bg/list/effects__ __bg/list/effects__ 
+{{1-4$$and$$__bg/list/effects__}}

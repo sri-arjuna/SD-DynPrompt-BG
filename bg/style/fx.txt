@@ -1,3 +1,1 @@
-__bg/style/light__ __bg/style/effect__
-{ __bg/style/light__ | __bg/style/effect__ } 
-{ __bg/style/light__ | __bg/style/effect__ } { __bg/style/light__ | __bg/style/effect__ } 
+{{1-2$$and$$__bg/style/light__}} {{1-2$$and$$__bg/style/effect__}} ,
