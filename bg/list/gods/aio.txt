@@ -1,0 +1,10 @@
+__bg/list/gods/aztec__
+__bg/list/gods/egypt__
+__bg/list/gods/greek__
+__bg/list/gods/hindi__
+__bg/list/gods/mono__
+__bg/list/gods/norse__
+__bg/list/gods/roman__
+
+
+
