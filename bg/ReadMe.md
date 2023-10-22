@@ -56,7 +56,20 @@ One of my favorites is:
 	__bg/art__
 	__bg/random__
 
-## Use as character background
+## Negatives:
+
+Of course you can use your own negatives, but I do have prepared them as well. \
+That said, you might want to add "text" for the char negative, but since I know that some people like to use text in combination with characters, I did not "hardcode" it.
+
+A general negative for wallpapers:
+
+	__bg/neg__
+
+And the specific one for the use with characters:
+
+	__bg/char/neg__
+
+## Use as character background:
 
 For the use with characters, I'd recomend either:
 
@@ -80,6 +93,9 @@ I have a solution for you.
 
 The latest / newest version of this readme, can be found at: \
 https://github.com/sri-arjuna/SD-DynPrompt-BG
+
+
+
 
 -------------------------------------------------------------------------------------
 
