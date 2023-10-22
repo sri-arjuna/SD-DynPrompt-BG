@@ -13,6 +13,9 @@ For characters / portrait, I would recomend:
 * 512 x 1024
 * 896 x 1152
 
+To see screenshots generated with this DynPrompt, please see my CivitAi page: \
+https://civitai.com/models/160192
+
 -------------------------------------------------------------------------------------
 
 ### ___Requirements:___
