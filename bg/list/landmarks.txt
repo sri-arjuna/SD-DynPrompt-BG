@@ -1,71 +1,71 @@
-Ruins of a { futuristic | antique | medieval | Romanesque | gothic | Gigeresque | industrial | Victorian | Mayan | Baroque | Art Deco } city, { minimal | scarce | occasional | modest | abundant } moss, { partially | mostly | slightly | largely | completely | heavily } overgrown, 
+Ruins of a { futuristic | antique | medieval | Romanesque | gothic | Gigeresque | industrial | VictoArian | Mayan | Baroque | art Deco } city, { minimal | scarce | occasional | modest | abundant } moss, { partially | mostly | slightly | largely | completely | heavily } overgrown, 
 { fire | ice | arcana | earth | lightning | shadow | wind | water | starlight | time | dream | chaos | celestial | void | nature | ectoplasm | ethereal | dark energy | crystal | aether | phantasmal | spectral | divine } particles, 
-{ Grotto | Cavern | Hollow | Den | Abyss | Subterrane | Underground chamber | Cavity | Hollow space | Gorge }, 
+{ Grotto | Cavern | Hollow | Den | abyss | Subterrane | Underground chamber | Cavity | Hollow space | Gorge }, 
 { Passage | Tube | Conduit | Channel | Corridor | Shaft | Bore | Subway | Underground passage | Pipe }, 
 a hughe water fall, 
 a tiny little stone, 
 a great castle, { gothic | Romanesque | pre-Romanesque } {shell-keep | stone-keep | concentric } style, 
 {one|two|three} Pyramid, 
 { floor has a river | walls have an indigenous village of either rustical or futuristic style | floor and walls are just different levels of rocks }, 
-An untouched wilderness where nature's grandeur reigns supreme.
-A pristine realm where the earth's ancient heart is laid bare.
-A remote haven where the land's secrets are whispered by the wind.
-A world where untouched beauty is woven into the very fabric of the land.
-A serene sanctuary where the elements have shaped a masterpiece of wonder.
-A dreamscape where nature's artistry paints the canvas of the earth.
-A boundless wilderness where the horizon is an open portal to the unknown.
-A timeless expanse where the world's untamed heart beats in solitude.
-An ethereal realm where light and shadow create a dance of enchantment.
-A secluded landscape where time stands still, and nature holds her breath.
-A sanctuary where the land's mysteries are etched in every blade of grass.
-A vision of serenity where the land's soul sings in quiet harmony.
-A remote wilderness where the very air carries the essence of the earth.
-A hidden treasure where the elements play in harmonious elegance.
-An unspoiled world where the boundaries of earth and sky dissolve into infinity.
-A place where the landscape's heart is an open book for those who seek it.
-A pristine wilderness where the beauty of the earth is beyond imagination.
-A dreamscape where each gaze reveals the profound stories of nature.
-A boundless vista where the horizon stretches to the edge of the world.
-An untouched haven where the wind carries the whispers of ancient secrets.
-A timeless realm where the land's soul is unveiled through distant silhouettes.
-A remote paradise where light and shadow weave tales of perpetual wonder.
-A wilderness where the world's wild heart reveals its secrets in every rustling leaf.
-A landscape where the strokes of nature's brush paint a portrait of endless amazement.
-A remote vision where the ever-changing light composes mesmerizing scenes.
-A dreamscape where the land's serenity mirrors the secrets of the boundless sky.
-A pristine sanctuary where the horizon is a canvas for the world's endless mysteries.
-A vista where time itself slows, revealing the timeless beauty of the land.
-A secluded vista where the landscape's enigmatic allure captivates all who dare to look.
-An untouched wilderness where the very essence of nature is an invitation to wonder.
-A world beneath the surface, where life teems in the deep.
-An aquatic realm where nature's beauty remains hidden.
-A serene abyss where mystery and wonder merge.
-A tranquil dive into the unknown, where secrets abound.
-A hidden cove where vibrant marine life dances.
-An underwater dreamscape, where light and shadow play.
-A place where the ocean's depths reveal their treasures.
-A submerged sanctuary, where life moves in graceful silence.
-A mysterious abyss where the sea whispers its stories.
-A glimpse into the aquatic realm, where life finds its rhythm.
-A cosmic canvas where stars weave tales of eternity.
-A celestial expanse where the cosmos reveals its secrets.
-A distant frontier where time and space merge into one.
-A cosmic dreamscape where planets and galaxies collide.
-An interstellar sanctuary where the unknown beckons.
-A tranquil voyage into the cosmic void, where mystery unfolds.
-A place where the universe's beauty takes center stage.
-A cosmic dreamscape where light and darkness dance.
-A glimpse into the cosmic unknown, where stars shine bright.
-A celestial dreamscape, where the mysteries of the universe are unveiled.
-Cascading Waterfall Amidst the Rainforest, 
+an untouched wilderness where nature's grandeur reigns supreme, 
+a pristine realm where the earth's ancient heart is laid bare, 
+a remote haven where the land's secrets are whispered by the wind, 
+a world where untouched beauty is woven into the very fabric of the land, 
+a serene sanctuary where the elements have shaped a masterpiece of wonder, 
+a dreamscape where nature's artistry paints the canvas of the earth, 
+a boundless wilderness where the horizon is an open portal to the unknown, 
+a timeless expanse where the world's untamed heart beats in solitude, 
+an ethereal realm where light and shadow create a dance of enchantment, 
+a secluded landscape where time stands still, and nature holds her breath, 
+a sanctuary where the land's mysteries are etched in every blade of grass, 
+a vision of serenity where the land's soul sings in quiet harmony, 
+a remote wilderness where the very air carries the essence of the earth, 
+a hidden treasure where the elements play in harmonious elegance, 
+an unspoiled world where the boundaries of earth and sky dissolve into infinity, 
+a place where the landscape's heart is an open book for those who seek it, 
+a pristine wilderness where the beauty of the earth is beyond imagination, 
+a dreamscape where each gaze reveals the profound stories of nature, 
+a boundless vista where the horizon stretches to the edge of the world, 
+an untouched haven where the wind carries the whispers of ancient secrets, 
+a timeless realm where the land's soul is unveiled through distant silhouettes, 
+a remote paradise where light and shadow weave tales of perpetual wonder, 
+a wilderness where the world's wild heart reveals its secrets in every rustling leaf, 
+a landscape where the strokes of nature's brush paint a portrait of endless amazement, 
+a remote vision where the ever-changing light composes mesmerizing scenes, 
+a dreamscape where the land's serenity mirrors the secrets of the boundless sky, 
+a pristine sanctuary where the horizon is a canvas for the world's endless mysteries, 
+a vista where time itself slows, revealing the timeless beauty of the land, 
+a secluded vista where the landscape's enigmatic allure captivates all who dare to look, 
+an untouched wilderness where the very essence of nature is an invitation to wonder, 
+a world beneath the surface, where life teems in the deep, 
+an aquatic realm where nature's beauty remains hidden, 
+a serene abyss where mystery and wonder merge, 
+a tranquil dive into the unknown, where secrets abound, 
+a hidden cove where vibrant marine life dances, 
+an underwater dreamscape, where light and shadow play, 
+a place where the ocean's depths reveal their treasures, 
+a submerged sanctuary, where life moves in graceful silence, 
+a mysterious abyss where the sea whispers its stories, 
+a glimpse into the aquatic realm, where life finds its rhythm, 
+a cosmic canvas where stars weave tales of eternity, 
+a celestial expanse where the cosmos reveals its secrets, 
+a distant frontier where time and space merge into one, 
+a cosmic dreamscape where planets and galaxies collide, 
+an interstellar sanctuary where the unknown beckons, 
+a tranquil voyage into the cosmic void, where mystery unfolds, 
+a place where the universe's beauty takes center stage, 
+a cosmic dreamscape where light and darkness dance, 
+a glimpse into the cosmic unknown, where stars shine bright, 
+a celestial dreamscape, where the mysteries of the universe are unveiled, 
+Cascading Waterfall amidst the Rainforest, 
 Towering Granite Spires and Cliffs, 
 Serpentine Meandering River, 
 Vibrant Coral Reef Ecosystem, 
-Jagged Alpine Peaks and Rugged Valleys, 
+Jagged alpine Peaks and Rugged Valleys, 
 Pristine White Sand Beach and Turquoise Waters, 
-Breathtaking Northern Lights in the Arctic Sky, 
+Breathtaking Northern Lights in the arctic Sky, 
 Rugged Coastal Sea Stacks, 
-Ancient Bristlecone Pine Forest, 
+ancient Bristlecone Pine Forest, 
 Exquisite Ice Formations in a Glacier Cave, 
 Verdant and Peaceful Meadow, 
 Enigmatic Sand Dunes in the Desert, 

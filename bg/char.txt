@@ -1,2 +1,2 @@
-__bg/nature/char__ __bg/char/aio__ 
-__bg/city/char__ __bg/char/aio__ 
+__bg/nature/char__ , __bg/char/aio__ 
+__bg/city/char__ , __bg/char/aio__ 

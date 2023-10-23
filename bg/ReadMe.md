@@ -10,7 +10,7 @@ Keep in mind, the core intention was to create wallpapers for myself!
 * 1280 x 720 === 1920 x 1080 (16:9)
 
 For characters / portrait, I would recomend:
-* 512 x 1024
+* 768 x 1024
 * 896 x 1152
 
 To see screenshots generated with this DynPrompt, please see my CivitAi page: \
