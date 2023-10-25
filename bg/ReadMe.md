@@ -165,3 +165,23 @@ Say you have my "Char" prompt and want a fantasy theme:
 	__char/rp-sfw__
 	__bg/char/aio__
 	__bg/city/fantasy-char__
+
+
+# Trigger words:
+
+	__bg/wallpaper__
+	__bg/art__
+	__bg/city/aio__
+	__bg/city/char__
+	__bg/nature/aio__
+	__bg/nature/char__
+	__bg/char/io__
+	__bg/neg__
+	__bg/char/neg__
+
+# More "optimized" trigger words:
+
+	__bg/city/fantasy__
+	__bg/city/modern__
+	__bg/city/mystery__
+	__bg/city/scifi__
