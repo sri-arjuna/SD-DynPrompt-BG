@@ -1,0 +1,13 @@
+graveyard 
+recreational park
+church 
+townhall 
+market 
+theatre 
+{weapon|general|drug|armor|clothing} store 
+construction yard
+spaceship
+spaceship yard
+space station, with a view to the universe
+messhall
+server room

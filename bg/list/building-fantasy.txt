@@ -1,0 +1,13 @@
+tavern
+graveyard 
+church 
+library 
+townhall 
+market 
+theatre 
+farm 
+{ mill | blacksmith }
+{weapon|general|drug|armor|clothing} store 
+construction yard
+messhall
+castle
