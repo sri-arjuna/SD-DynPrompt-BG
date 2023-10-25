@@ -32,7 +32,7 @@ https://civitai.com/models/160192
 
 * Simply put the contained folder "bg" into: 
 	* ./extensions/sd-dynamic-prompts/wildcards
-* So get/have:
+* So you get/have:
 	* ./extensions/sd-dynamic-prompts/wildcards/bg
 * After that, just make sure that you hit that "Refresh Wildcards" button \
 	at the bottom of the "Wildcards Manager" tab.
@@ -51,7 +51,8 @@ My personal favorite is to force photos, however, some effects *might* change it
 	__bg/wallpaper__
 	__bg/photo__
 
-One of my favorites is:
+One of my favorites is: \
+*however, art is already included in the wallpaper, but with a 1:4 chance*
 
 	__bg/art__
 	__bg/random__
@@ -87,7 +88,7 @@ If you find defining your character as difficult, \
 or if it annoys you to write so many different (SFW + Skimpy/NSFW) prompts to get random characters / females, \
 I have a solution for you.
 
-* SD-DynPrompt-Char 
+* SD-DynPrompt-Char (WIP, unpublished yet)
 	* [GitHub](https://github.com/sri-arjuna/SD-DynPrompt-Char)
 	* [CivitAI]()
 
