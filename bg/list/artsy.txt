@@ -1,0 +1,20 @@
+heart
+skull
+rose
+lotus
+cross
+star
+sun
+key
+{ watch | clock }
+feather
+flower
+butterfly
+bird
+ankh
+anker
+eye
+tree
+snake
+heartbeat
+labyrinth
