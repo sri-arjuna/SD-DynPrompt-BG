@@ -1,2 +1,1 @@
-we are {indside|outside} of a __bg/list/building__ which is built and decorated in the { style of __bg/style/aio-mystery__ | mixed style of __bg/style/aio-scifi__ and __bg/style/aio-mystery__ and __bg/style/aio-fantasy__ }
-we are {indside|outside} of a __bg/list/building__ which is built and decorated in the mixed style of { __bg/style/aio-mystery__ | __bg/style/aio-scifi__ and __bg/style/aio-mystery__ and __bg/style/aio-scifi__ and __bg/style/aio-fantasy__ }
+we are {indside|outside} of a __bg/list/building-modern__ which is built and decorated in the { style of__bg/style/artist/modern__ | mixed style of__bg/style/artist/modern__ and __bg/style/artist/modern__ }

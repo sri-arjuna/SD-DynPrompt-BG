@@ -1,0 +1,13 @@
+restaurant
+recreational park
+church 
+library 
+townhall 
+market 
+theatre 
+{weapon|general|drug|armor|clothing} store 
+construction yard
+messhall
+living room
+bedroom
+parking lot
