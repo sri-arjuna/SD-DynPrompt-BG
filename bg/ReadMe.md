@@ -175,7 +175,7 @@ Say you have my "Char" prompt and want a fantasy theme:
 	__bg/city/char__
 	__bg/nature/aio__
 	__bg/nature/char__
-	__bg/char/io__
+	__bg/char/aio__
 	__bg/neg__
 	__bg/char/neg__
 

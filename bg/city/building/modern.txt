@@ -1,1 +1,1 @@
-we are {indside|outside} of a __bg/list/building-modern__ which is built and decorated in the { style of__bg/style/artist/modern__ | mixed style of__bg/style/artist/modern__ and __bg/style/artist/modern__ }
+we are {indside|outside} of a __bg/list/building-modern__ which is built and decorated in the { style of __bg/style/artist/modern__ | mixed style of __bg/style/artist/modern__ and __bg/style/artist/modern__ }
