@@ -11,3 +11,6 @@ farm
 construction yard
 messhall
 castle
+dungeon
+Aqueduct
+colloseum

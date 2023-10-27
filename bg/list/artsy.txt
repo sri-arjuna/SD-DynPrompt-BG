@@ -18,3 +18,11 @@ tree
 snake
 heartbeat
 labyrinth
+flames
+chains
+dunbell
+smartphone
+cup of coffee
+cup of tea
+Aqueduct
+bridge
