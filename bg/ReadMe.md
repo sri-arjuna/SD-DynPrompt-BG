@@ -7,9 +7,11 @@ Creating stunning, randomly generated landscapes as wallpaper (my main intention
 
 Keep in mind, the core intention was to create wallpapers for myself!
 * 1720 x 720 === 3440 x 1440 (21:9)
+* 1536 x 640 === 3440 x 1440 (21:9)
 * 1280 x 720 === 1920 x 1080 (16:9)
 
 For characters / portrait, I would recomend:
+*and vice versa of course*
 * 768 x 1024
 * 896 x 1152
 
@@ -90,7 +92,7 @@ I have a solution for you.
 
 * SD-DynPrompt-Char (WIP, unpublished yet)
 	* [GitHub](https://github.com/sri-arjuna/SD-DynPrompt-Char)
-	* [CivitAI]()
+	* [CivitAI](https://civitai.com/models/178779/dynamicprompt-char)
 
 The latest / newest version of this readme, can be found at: \
 https://github.com/sri-arjuna/SD-DynPrompt-BG
@@ -168,6 +170,7 @@ Say you have my "Char" prompt and want a fantasy theme:
 
 
 # Trigger words:
+Just something for me to easy copy paste them on the civit page.
 
 	__bg/wallpaper__
 	__bg/art__
