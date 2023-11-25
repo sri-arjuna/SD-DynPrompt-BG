@@ -14,3 +14,24 @@ Bokeh Panorama
 Depth of Field Blur
 Swirl Bokeh
 Chromatic Aberration
+Grain/Noise Texture
+Color Grading
+Split Toning
+Texture Overlay
+Double Exposure
+Glitch Effect
+HDR (High Dynamic Range)
+Emboss Effect
+Infrared Effect
+Mosaic/Pixelation
+Old Film/Scratches Overlay
+Reflection/Refraction
+Shadow/Highlight Enhancement
+Watercolor/Painting Effect
+Fisheye Distortion
+Retro/Vintage Effect
+Glow/Soft Focus
+Morphing/Transformations
+Duotone Effect
+Matte Painting
+Monochromatic
