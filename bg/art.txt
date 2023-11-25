@@ -1,7 +1,7 @@
 An holographic (pinwheel) made by fractal zentangle colorful moire pattern art, like 3d sound waves, stable diffusion
 a ying yang symbol of __bg/list/elements__ and __bg/list/elements__ , flowing fractal image of buddha in {kaleidoscopic|rainbow} colors, stable diffusion, 
 a (ying yang symbol:1.4) of __bg/list/elements__ and __bg/list/elements__ , flowing fractal image of buddha in ({kaleidoscopic|rainbow} colors:1.4), stable diffusion, 
-a 5 dimensional {cube|pyramid} of __bg/list/elements__ , surrounded by an aura of __bg/list/elements__ particles , stable diffusion, 
+a 5 dimensional {cube|pyramid| __bg/list/geometric__ } of __bg/list/elements__ , surrounded by an aura of __bg/list/elements__ particles , stable diffusion, 
 a { __bg/list/geometric__ | __bg/list/geometric-space__ } figure of __bg/list/elements__ in the forground and a background of fractalite { __bg/list/geometric__ | __bg/list/geometric-space__ } in {kaleidoscopic|rainbow|various different} colors, stable diffusion, 
 the wavelength of __bg/list/elements__ as a {holographic|fractalite} {layer|surface} of __bg/list/geometric-space__ , stable diffusion
 we have a { __bg/list/geometric__ | __bg/list/geometric-space__ } and a { __bg/list/geometric__ | __bg/list/geometric-space__ }, in the foreground we see __bg/list/gods/aio__ in a {kaleidoscopic|fractalite} appearance with an aura of __bg/list/elements__ particles, stable diffusion, 
@@ -12,3 +12,4 @@ in open space with __bg/nature/sky__ is a __bg/list/geometric__ construct that c
  ${num=!{2|3|4|5|6|7|8|9|10|11|13|17|19|23}} the fractal of ${num}(i), ${num}(i+1), ${num}(i+2), ${num}(i-1) using the 8th magical color as a {black light painting|holographic surface} surrounded by __bg/list/elements__ particles
 an {abstract|realistic} depiction of __bg/list/artsy__ in the forground, and a { __bg/list/geometric__ | __bg/list/geometric-space__ } in the background, as { __bg/style/asorted__ | holograph | fluid fractal }
 an {abstract|realistic} depiction of __bg/list/artsy__ { surrounded by | with an aura of } __bg/list/elements__  as a  { __bg/style/asorted__ | holograph | fluid fractal } image
+{ __bg/list/geometric__ | __bg/list/geometric-space__ } made of __bg/list/elements__ , on a {holographic plane | fractalite layer } of __bg/list/elements__ , {realistic |stable diffusion}
