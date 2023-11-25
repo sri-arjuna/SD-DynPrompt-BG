@@ -5,3 +5,19 @@ godrays
 sunbeam
 rossdraws global illumination
 global illumination
+Rim Lighting/Backlighting
+Fill Light
+Rembrandt Lighting
+Split Lighting
+Low-Key Lighting
+High-Key Lighting
+Natural Light
+Practical Lighting
+Hard Edge Lighting
+Soft Edge Lighting
+Top Lighting
+Underlighting
+Gobo Lighting
+Prism Effects
+Lens Flares
+Silhouette Lighting
