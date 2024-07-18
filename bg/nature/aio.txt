@@ -1,3 +1,3 @@
-__bg/nature/terrain__ { __bg/list/landmarks__ | __bg/city/aio__ }									__bg/nature/env__ 
-__bg/nature/terrain__ { __bg/list/landmarks__ | __bg/list/landmarks__ __bg/list/landmarks__ } 		__bg/nature/env__ 
-__bg/nature/terrain__ { __bg/list/landmarks__ | __bg/list/landmarks__ __bg/list/landmarks-char__ } 	__bg/nature/env__ 
+{ landscape | __bg/nature/terrain__ } { __bg/list/landmarks__ | __bg/city/aio__ }					__bg/nature/env__ 
+{ landscape | __bg/nature/terrain__ } { __bg/list/landmarks__ | __bg/list/landmarks__ __bg/list/landmarks__ } 		__bg/nature/env__ 
+{ landscape | __bg/nature/terrain__ } { __bg/list/landmarks__ | __bg/list/landmarks__ __bg/list/landmarks-char__ } 	__bg/nature/env__ 
