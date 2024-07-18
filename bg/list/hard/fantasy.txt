@@ -1,0 +1,16 @@
+# Simple
+on a {hill|mountain|balcony|terasse} , looking {ontop|at the skyline} of the __bg/list/hard/fantasy/city__ , __bg/list/hard/cyber/scenery__ , __bg/list/hard/fantasy/style__ , at {day|night|sunset|dawn}
+{inside|outside} of __bg/list/building-fantasy__ of a __bg/list/hard/fantasy/city__ , __bg/list/hard/cyber/scenery__ , __bg/list/hard/fantasy/style__ , at {day|night|sunset|dawn}
+
+# Situations
+at the gates of a __bg/list/hard/fantasy/city__ , entering the city, __bg/list/hard/cyber/scenery__ , __bg/list/hard/fantasy/style__ , at {day|night|sunset|dawn}
+at the town its well off a __bg/list/hard/fantasy/city__ , relaxing ambience, market vibe, __bg/list/hard/cyber/scenery__ , __bg/list/hard/fantasy/style__ , at {day|night|sunset|dawn}
+{inside|outside} of the stables of a __bg/list/hard/fantasy/city__ , [horses], hay, __bg/list/hard/cyber/scenery__ , __bg/list/hard/fantasy/style__ , at {day|night|sunset|dawn}
+
+
+# Dark
+on the graveyard of __bg/list/hard/fantasy/city__ , __bg/list/hard/cyber/scenery__ , __bg/list/hard/fantasy/style__ , at {night|sunset}, mysterious fog
+(in a dungeon or prison) of a __bg/list/hard/fantasy/city__, demons walking free, any humnan is bound, __bg/list/hard/cyber/scenery__ , __bg/list/hard/fantasy/style__ 
+
+# View
+__bg/list/hard/fantasy/city__ , __bg/list/hard/cyber/scenery__ , __bg/list/hard/fantasy/style__ , at {day|night|sunset|dawn}

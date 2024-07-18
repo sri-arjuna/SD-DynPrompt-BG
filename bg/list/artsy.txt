@@ -59,3 +59,8 @@ Enigmatic
 Harmony
 Zen
 Tranquility
+Fire
+Explosion
+Ice
+Smoke
+Fog

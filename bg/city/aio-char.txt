@@ -1,0 +1,4 @@
+outside of { __bg/city/fantasy-char__ | __bg/city/modern-char__ | __bg/city/mystery-char__ | __bg/city/scifi-char__ } 
+in front of { __bg/city/fantasy-char__ | __bg/city/modern-char__ | __bg/city/mystery-char__ | __bg/city/scifi-char__ } 
+on a {mountain|hill|tower|building} looking down to a{ __bg/city/fantasy-char__ | __bg/city/modern-char__ | __bg/city/mystery-char__ | __bg/city/scifi-char__ } 
+outside of { __bg/city/fantasy-char__ | __bg/city/modern-char__ | __bg/city/mystery-char__ | __bg/city/scifi-char__ } 

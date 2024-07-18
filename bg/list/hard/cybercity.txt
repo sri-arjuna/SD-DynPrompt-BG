@@ -1,0 +1,17 @@
+#a {neon lit|smogy|neon lit and clean} {futuristic|cyberpunk|futuristic cyberpunk} {town|city} in the style of a mix between __bg/style/aio-scifi__ and and __bg/style/aio-scifi__ 
+#a {neon lit|smogy|neon lit and clean} {futuristic|cyberpunk|futuristic cyberpunk} {town|city}
+
+#	--	Top View	--
+on a {hill|mountain|balcony|terasse} , looking {ontop|at the skyline} of the __bg/list/hard/cyber/city__ , __bg/list/hard/cyber/scenery__ , __bg/list/hard/cyber/style__ , at {day|night|sunset|dawn}
+on a {hill|mountain|balcony|terasse} , looking {ontop|at the skyline} of the __bg/list/hard/cyber/city__ , {|__bg/list/hard/cyber/scenery__} , at {day|night|sunset|dawn}
+
+#	--	Beach View	--
+looking at a __bg/list/hard/cyber/city__ from the beach at {night|day|sunset|dawn},  __bg/list/hard/cyber/scenery__
+looking at a __bg/list/hard/cyber/city__ from the beach at {night, nightlife|day, enjoying sun|sunset, romantic walks|dawn, joggers}, __bg/list/hard/cyber/scenery__
+
+#	--	In city	--
+# Only specifics... maybe.. then evtl. todo...
+in the industrial district of a __bg/list/hard/cyber/city__ , __bg/list/hard/cyber/scenery__ ,  at {day|night|sunset|dawn}, fog steams from the sewers, godrays, pipes, smoke, oil, industrial machines
+in the {red light|nightlife} district of a __bg/list/hard/cyber/city__ , __bg/list/hard/cyber/scenery__ ,  at {day|night|sunset|dawn}, fog steams from the sewers, godrays, neon lights
+in front of a {garage|sight seeing spot} of a __bg/list/hard/cyber/city__ , __bg/list/hard/cyber/scenery__ , at {day|night|sunset|dawn}
+{the outskirts|slums} of a __bg/list/hard/cyber/city__ , __bg/list/hard/cyber/scenery__ , at {day|night|sunset|dawn}

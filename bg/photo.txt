@@ -1,2 +1,2 @@
-((photo raw)), 
-((photo raw)), __bg/style/fx__ , 
+((photo raw, hdr, highres, best quality)), 
+((photo raw, hdr, highres, best quality)), __bg/style/fx__ ,
